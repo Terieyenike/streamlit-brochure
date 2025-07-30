@@ -2,6 +2,8 @@
 
 This project extracts relevant links and content from a company website, and generates a concise **company brochure** using OpenAI's GPT-4o-mini model.
 
+![brochure generation from a website](./image.png)
+
 Built with:
 - 🐍 Python
 - 🌐 Streamlit
