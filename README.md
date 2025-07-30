@@ -27,8 +27,8 @@ Built with:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/website-brochure-generator.git
-cd website-brochure-generator
+git clone https://github.com/Terieyenike/streamlit-brochure.git
+cd streamlit-brochure
 ```
 
 ### 2. Install dependencies
